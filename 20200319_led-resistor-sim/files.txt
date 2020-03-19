@@ -1,0 +1,7 @@
+https://tetsufuku-blog.com/led-resistor-sim/ でシミュレーションに使用したLTspiceの回路図(ネットリスト)です。
+
+led-circuit-01.asc : 基本回路(LED1個)
+led-circuit-02.asc :  LEDを電圧源に置き換え
+led-circuit-03.asc : LED2個直列
+led-circuit-04.asc : LED2個並列
+led-circuit-05.asc : I-V特性シミュレーション
